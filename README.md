@@ -1,16 +1,14 @@
 
 ### Olá, eu sou o Roberto Dantas 👋
+Sou um entusiasta da tecnologia apaixonado por aprender e explorar novas possibilidades
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertodantas20/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](robertodantas502@gmail.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtoDantas&layout=compact)](https://github.com/rtoDantas)
+##
 
 ![Roberto Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=rtoDantas&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtoDantas&layout=compact)](https://github.com/rtoDantas)
 
 
-### Tecnologia que uso no meu dia
+## Tecnologias que uso e estou estudando
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -23,3 +21,6 @@
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
+## Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertodantas20/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](robertodantas502@gmail.com)
